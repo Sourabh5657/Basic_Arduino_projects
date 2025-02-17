@@ -19,8 +19,6 @@ Arduino IDE for coding and uploading
 🔗 Tinkercad Simulations
 You can visualize and test the projects online using Tinkercad! Each project will have a simulation link where you can modify and run the code without needing real hardware.
 
-🔗 LED Control using Potentiometer - Tinkercad Simulation (Add your Tinkercad link here)
-
 📖 How to Use:
 Clone this repository
 Open the code in Arduino IDE
