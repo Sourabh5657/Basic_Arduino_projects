@@ -3,6 +3,7 @@
 📌 Projects Included:
 ✅ LED Control using Potentiometer (First Project) 🔥
 ✅ LED Blinking (Using pushbutton)
+✅ LED Bar Graph (Using potentiometer)
 ✅ Analog Sensor Reading (LDR, Potentiometer, etc.)
 ✅ Digital Sensor Interfacing (PIR, Ultrasonic, etc.)
 ✅ Servo Motor Control
